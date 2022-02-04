@@ -7,3 +7,11 @@ npm run build
 ```
 
 _Automatically scans all folders for `.md` files and creates a navigation based on category order inside of `src/build.js`, modify accordingly_
+
+# Serve Documentation
+
+If you need to serve the documentation do the following:
+
+```
+docsify serve .
+```
