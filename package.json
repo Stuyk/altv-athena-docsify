@@ -1,0 +1,14 @@
+{
+  "name": "altv-athena-docsify",
+  "version": "1.0.0",
+  "description": "## Summary",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.2.0"
+  }
+}
